@@ -1,0 +1,4 @@
+node_modules/
+lavender.db
+*.log
+.env
